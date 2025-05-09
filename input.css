@@ -4,3 +4,10 @@
 @tailwind utilities;
 
 @import "tailwindcss";
+
+body{
+    background-color: #FEC1C5;
+}
+a{
+    text-decoration: none;
+}
